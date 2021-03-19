@@ -1,0 +1,9 @@
+@startuml
+
+skinparam actorStyle awesome
+
+:User: --> (Start program)
+:User: --> (Enter whether tried\nhardest today)
+:User: --> (View previous entries)
+
+@enduml
