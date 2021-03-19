@@ -6,3 +6,4 @@ API Documentation
    :maxdepth: 2
 
    use_cases
+   develop_log
